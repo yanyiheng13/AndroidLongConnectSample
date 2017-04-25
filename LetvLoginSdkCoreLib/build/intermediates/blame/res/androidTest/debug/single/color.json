@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/color/com_facebook_button_text_color.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

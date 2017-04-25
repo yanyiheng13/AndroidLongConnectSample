@@ -9,7 +9,7 @@ import android.widget.Toast;
 import com.mpush.android.MPush;
 import com.mpush.android.MPushService;
 import com.mpush.android.Notifications;
-import com.mpush.api.Constants;
+import com.mpush.java.api.Constants;
 
 import org.json.JSONException;
 import org.json.JSONObject;

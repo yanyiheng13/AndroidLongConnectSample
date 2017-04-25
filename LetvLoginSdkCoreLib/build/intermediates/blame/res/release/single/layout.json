@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_pop_guidefakeid.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_pop_guidefakeid.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_activity_auth.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_activity_auth.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/gender_popwindow.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/gender_popwindow.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/letvloginsdk_new_user_guide.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/letvloginsdk_new_user_guide.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/data_picker_popwindow.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/data_picker_popwindow.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/personal_info_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/personal_info_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/letv_register_password_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/letv_register_password_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_common_bar.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_common_bar.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/message_regist_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/message_regist_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/webview_acitivity_title.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/webview_acitivity_title.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/letvloginsdk_third_part_login_popwindow.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/letvloginsdk_third_part_login_popwindow.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_item_countrypage.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_item_countrypage.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_pop_guidelock.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_pop_guidelock.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/choose_continent_area_item.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/choose_continent_area_item.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/com_facebook_login_fragment.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_pop_guidestart.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_pop_guidestart.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_pop_guiderebundle.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_pop_guiderebundle.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/activity_letv_login_share.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/activity_letv_login_share.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_activity_countrypage.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_activity_countrypage.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/letv_login_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/letv_login_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/item_show_account_fragment.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/item_show_account_fragment.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_wiget_loading.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_wiget_loading.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/mail_item.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/mail_item.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/address_area_popwindow.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/address_area_popwindow.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/messenger_button_send_white_round.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_activity_clippic.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_activity_clippic.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/shortcut_nickname_dialog_layout.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/shortcut_nickname_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/activity_letv_third_login.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/activity_letv_third_login.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_pop_facelogin.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_pop_facelogin.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_activity_secureemail.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_activity_secureemail.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_activity_edituserinfo.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_activity_edituserinfo.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_activity_facedete.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_activity_facedete.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/prompt_dialog_layout.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/prompt_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/select_head_pic_popwindow.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/select_head_pic_popwindow.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_pop_guideerror.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_pop_guideerror.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/letv_register_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/letv_register_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/activity_wxentry.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/activity_wxentry.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_activity_agreeitem.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_activity_agreeitem.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/superid_pop_faceregist.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/superid_pop_faceregist.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/choose_country_area_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/choose_country_area_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/message_login_authcode_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/message_login_authcode_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/login_emailhint_listview.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/login_emailhint_listview.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/choose_country_area_item.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/choose_country_area_item.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/public_loading_layout.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/public_loading_layout.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/modify_nick_name_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/modify_nick_name_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/messenger_button_send_white_small.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/toast_layout.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/toast_layout.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/messenger_button_send_white_large.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/messagelogin_dialog_layout.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/messagelogin_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/message_login_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/message_login_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/message_login_authcode_en_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/message_login_authcode_en_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/webview_activity.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/webview_activity.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/layout/verficationcode_dialog_layout.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/layout/verficationcode_dialog_layout.xml"
+    }
+]

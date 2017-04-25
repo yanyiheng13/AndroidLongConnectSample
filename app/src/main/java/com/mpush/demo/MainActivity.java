@@ -3,74 +3,276 @@ package com.mpush.demo;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.BitmapFactory;
+import android.os.Handler;
+import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
-import com.mpush.android.BuildConfig;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+import com.letv.loginsdk.LoginSdk;
+import com.letv.loginsdk.LoginSdkLogout;
+import com.letv.loginsdk.bean.LetvBaseBean;
+import com.letv.loginsdk.bean.UserBean;
+import com.letv.loginsdk.callback.LoginSuccessCallBack;
 import com.mpush.android.MPush;
 import com.mpush.android.Notifications;
 import com.mpush.android.R;
-import com.mpush.api.Constants;
-import com.mpush.api.http.HttpCallback;
-import com.mpush.api.http.HttpMethod;
-import com.mpush.api.http.HttpRequest;
-import com.mpush.api.http.HttpResponse;
-import com.mpush.client.ClientConfig;
+import com.mpush.java.BuildConfig;
+import com.mpush.java.api.Constants;
+import com.mpush.java.api.http.HttpCallback;
+import com.mpush.java.api.http.HttpMethod;
+import com.mpush.java.api.http.HttpRequest;
+import com.mpush.java.api.http.HttpResponse;
+import com.mpush.java.client.ClientConfig;
 
 import org.json.JSONObject;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.UUID;
 import java.util.concurrent.TimeUnit;
-import java.util.logging.Handler;
+
 
 public class MainActivity extends AppCompatActivity {
+    private TextView mTvContent;
+
+    private Button mBtnLogin;
+
+    private UserBean mUserBean;// 登录返回的bean类
+    private final int LOGINSUCCESS = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        String user = getString("mpush.cfg", "login");
+
+        mTvContent = (TextView) findViewById(R.id.value);
+        mBtnLogin = (Button) findViewById(R.id.login);
+        if (!TextUtils.isEmpty(user)) {
+            mUserBean = new Gson().fromJson(user, new TypeToken<UserBean>(){}.getType());
+            mBtnLogin.setText("退出登录");
+        } else {
+            mBtnLogin.setText("请登录");
+        }
+
+        initSetting();
+    }
+
+    /**
+     * 通知初始化设置
+     */
+    private void initSetting() {
         Notifications.I.init(this.getApplicationContext());
         Notifications.I.setSmallIcon(R.mipmap.ic_notification);
         Notifications.I.setLargeIcon(BitmapFactory.decodeResource(getResources(), R.mipmap.ic_launcher));
-        SharedPreferences sp = this.getSharedPreferences("mpush.cfg", Context.MODE_PRIVATE);
-//        String alloc = sp.getString("allotServer", null);
-//        if (alloc != null) {
-//            EditText et = (EditText) findViewById(R.id.alloc);
-//            et.setText(alloc);
-//        }
     }
 
-    private void initPush(String allocServer, String userId) {
+    /**
+     * 推送初始化设置
+     *
+     * @param allocServer
+     */
+    private void initPush(String allocServer) {
         //公钥有服务端提供和私钥对应
         String publicKey = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCghPCWCobG8nTD24juwSVataW7iViRxcTkey/B792VZEhuHjQvA3cAJgx2Lv8GnX8NIoShZtoCg3Cx6ecs+VEPD2fBcg2L4JK7xldGpOJ3ONEAyVsLOttXZtNXvyDZRijiErQALMTorcgi79M5uVX9/jMv2Ggb2XAeZhlLD28fHwIDAQAB";
 
         ClientConfig cc = ClientConfig.build()
                 .setPublicKey(publicKey)
-//                .setServerHost("10.112.88.102")
-//                .setServerPort(3000)
-                .setAllotServer("http://10.112.88.102:8662/foundation/device/alloc/getService")
-//                .setAllotServer("http://10.112.88.102:3000")
+                .setAllotServer(allocServer)
                 .setDeviceId(getDeviceId())
                 .setClientVersion(BuildConfig.VERSION_NAME)
                 .setLogger(new MyLog(this, (EditText) findViewById(R.id.log)))
                 .setLogEnabled(BuildConfig.DEBUG)
                 .setEnableHttpProxy(true)
-                .setUserId(userId);
+                .setUserId("3123456");
         MPush.I.checkInit(getApplicationContext()).setClientConfig(cc);
     }
 
+    /**
+     * 通过长连接发送请求
+     *
+     * @param btn
+     * @throws Exception
+     */
+    public void sendPush(View btn) throws Exception {
+        JSONObject params = new JSONObject();
+        params.put("userId", "123456789");
+        params.put("hello", "987654321" + " say:hello");
+
+        HttpRequest request = new HttpRequest(HttpMethod.GET, "https://pre-jr1.le.com/api/pay/bankCardLimits/v3/appkey");
+        byte[] body = params.toString().getBytes(Constants.UTF_8);
+        request.setBody(body);
+        request.setTimeout((int) TimeUnit.SECONDS.toMillis(10));
+        request.setCallback(new HttpCallback() {
+            @Override
+            public void onResponse(final HttpResponse httpResponse) {
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        if (httpResponse.statusCode == 200) {
+                            showToast(new String(httpResponse.body, Constants.UTF_8));
+                            Log.e("vivi", new String(httpResponse.body, Constants.UTF_8));
+                        } else {
+                            showToast(httpResponse.reasonPhrase);
+                            Log.e("vivi", httpResponse.reasonPhrase);
+                        }
+                    }
+                });
+            }
+
+            @Override
+            public void onCancelled() {
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        showToast("http请求取消");
+                        Log.e("vivi", "http请求取消");
+                    }
+                });
+            }
+        });
+        MPush.I.sendHttpProxy(request);
+    }
+
+    public void sendPost(View btn) throws Exception {
+        String token = mUserBean== null ? "158bc03d12jm34lrm1tAxphEfzG78rIrGXzaLyANpkyDxwGzAG0xFvJyqwXPgIJGZvrWxm1ptHw" : mUserBean.getSsoTK();
+//        JSONObject params1 = new JSONObject();
+//        params1.put("version", "v1");
+//        params1.put("appKey", "1");
+//        params1.put("token", token);
+//        params1.put("content", "这里是长连接的测试，请不要拦截接口，谢谢");
+
+//        String params1 = "version=1&appkey=1&token=" + token + "&content=这里是长连接的测试，请不要拦截接口，谢谢";
+        Map<String, String> params1 = new HashMap<>();
+        params1.put("version", "v1");
+        params1.put("appKey", "1");
+        params1.put("token", token);
+        params1.put("content", "这里是长连接的测试，请不要拦截接口，谢谢");
+
+        Map<String, String> header = new HashMap<String, String>();
+        header.put("User-agent", "LeFinanceTrade/" + "1.5.1");
+
+        StringBuilder builder = new StringBuilder();
+        builder.append("token=").append(token);
+        builder.append("&uid=").append(mUserBean == null ? "176943483" : mUserBean.getUid());
+
+        header.put("Extensions", builder.toString());
+
+        HttpRequest request = new HttpRequest(HttpMethod.POST, "https://pre-jr1.le.com/api/content/feedback");
+//        byte[] body = params1.toString().getBytes(Constants.UTF_8);
+        request.setPostParam(params1);
+        request.setHeaders(header);
+        request.setTimeout((int) TimeUnit.SECONDS.toMillis(10));
+        request.setCallback(new HttpCallback() {
+            @Override
+            public void onResponse(final HttpResponse httpResponse) {
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        if (httpResponse.statusCode == 200) {
+                            showToast(new String(httpResponse.body, Constants.UTF_8));
+                            Log.e("vivi", new String(httpResponse.body, Constants.UTF_8));
+                        } else {
+                            showToast(httpResponse.reasonPhrase);
+                            Log.e("vivi", httpResponse.reasonPhrase);
+                        }
+                    }
+                });
+            }
+
+            @Override
+            public void onCancelled() {
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        showToast("http请求取消");
+                        Log.e("vivi", "http请求取消");
+                    }
+                });
+            }
+        });
+        MPush.I.sendHttpProxy(request);
+    }
+
+    public void login(View login) {
+        if ("退出登录".equals(mBtnLogin.getText().toString())) {
+            mBtnLogin.setText("请登录");
+            new LoginSdkLogout().logout(this);
+            mUserBean = null;
+            setString("mpush.cfg", "login", "");
+        } else {
+            new LoginSdk().login(MainActivity.this,new LoginSuccessCallBack(){
+                @Override
+                public void loginSuccessCallBack(
+                        LoginSuccessState loginSuccessState,
+                        LetvBaseBean bean) {
+
+                    if (loginSuccessState == LoginSuccessState.LOGINSUCCESS) {
+                        //登录成功后接收的值
+                        mUserBean = (UserBean)bean;
+                        mHandler.sendEmptyMessageDelayed(LOGINSUCCESS, 0);
+                    }
+                }
+            });
+        }
+
+    }
+
+    private Handler mHandler = new Handler(){
+        @Override
+        public void handleMessage(Message msg) {
+            super.handleMessage(msg);
+            switch (msg.what) {
+                case LOGINSUCCESS:
+                    //登录成功后
+                    mBtnLogin.setText("退出登录");
+                    setString("mpush.cfg", "login", new Gson().toJson(mUserBean));
+                    break;
+
+                default:
+                    break;
+            }
+
+        }
+
+    };
+    private final static String DEFAULT_STRING = "";
+    private final static int MODE = Context.MODE_PRIVATE;
+
+    public String getString(String name, String key) {
+        SharedPreferences mSharedPreferences = getApplication().getSharedPreferences(name, MODE);
+        return mSharedPreferences.getString(key, DEFAULT_STRING);
+    }
+
+    public boolean setString(String name, String key, String value) {
+        SharedPreferences mSharedPreferences = getApplication().getSharedPreferences(name, MODE);
+        SharedPreferences.Editor mEditor = mSharedPreferences.edit();
+        mEditor.putString(key, value);
+        return mEditor.commit();
+    }
+
+    /**
+     * 获取设备id
+     *
+     * @return
+     */
     private String getDeviceId() {
-//        TelephonyManager tm = (TelephonyManager) this.getSystemService(Activity.TELEPHONY_SERVICE);
-        String deviceId = "11135555566666";
+        SharedPreferences sp = this.getSharedPreferences("mpush.cfg", Context.MODE_PRIVATE);
+        String deviceId = sp.getString("deviceId", null);
         if (TextUtils.isEmpty(deviceId)) {
-            String time = Long.toString((System.currentTimeMillis() / (1000 * 60 * 60)));
-            deviceId = time + time;
+            deviceId = UUID.randomUUID().toString();
+            SharedPreferences.Editor editor = sp.edit();
+            editor.putString("deviceId", deviceId);
+            editor.apply();
         }
         return deviceId;
     }
@@ -84,101 +286,32 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void startPush(View btn) {
-        EditText et = (EditText) findViewById(R.id.alloc);
-        String allocServer = et.getText().toString().trim();
-
-        if (TextUtils.isEmpty(allocServer)) {
-            Toast.makeText(this, "请填写正确的alloc地址", Toast.LENGTH_SHORT).show();
-            return;
-        }
-
-        if (!allocServer.startsWith("http://")) {
-            allocServer = "http://" + allocServer;
-        }
-
-
-        EditText etUser = (EditText) findViewById(R.id.from);
-        String userId = etUser.getText().toString().trim();
-
-        initPush(allocServer, userId);
-
+        initPush("http://10.112.88.102:8662/foundation/message/alloc/getService");
         MPush.I.checkInit(this.getApplication()).startPush();
-        Toast.makeText(this, "start push", Toast.LENGTH_SHORT).show();
-    }
-
-    public void sendPush(View btn) throws Exception {
-        EditText et1 = (EditText) findViewById(R.id.alloc);
-        String allocServer = et1.getText().toString().trim();
-
-        if (TextUtils.isEmpty(allocServer)) {
-            Toast.makeText(this, "请填写正确的alloc地址", Toast.LENGTH_SHORT).show();
-            return;
-        }
-
-        if (!allocServer.startsWith("http://")) {
-            allocServer = "http://" + allocServer;
-        }
-
-        EditText toET = (EditText) findViewById(R.id.to);
-        String to = toET.getText().toString().trim();
-
-        EditText fromET = (EditText) findViewById(R.id.from);
-        String from = fromET.getText().toString().trim();
-
-        EditText helloET = (EditText) findViewById(R.id.httpProxy);
-        String hello = helloET.getText().toString().trim();
-
-        if (TextUtils.isEmpty(hello)) hello = "hello";
-
-        JSONObject params = new JSONObject();
-        params.put("userId", to);
-        params.put("hello", from + " say:" + hello);
-
-        final Context context = this;
-        HttpRequest request = new HttpRequest(HttpMethod.GET, "https://pre-jr1.le.com/api/pay/bankCardLimits/v3/appkey");
-        byte[] body = params.toString().getBytes(Constants.UTF_8);
-//        request.setBody(body, "application/json; charset=utf-8");
-        request.setTimeout((int) TimeUnit.SECONDS.toMillis(10));
-        request.setCallback(new HttpCallback() {
-            @Override
-            public void onResponse(final HttpResponse httpResponse) {
-                runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-                        if (httpResponse.statusCode == 200) {
-                            Toast.makeText(context, new String(httpResponse.body, Constants.UTF_8), Toast.LENGTH_SHORT).show();
-                        } else {
-                            Toast.makeText(context, httpResponse.reasonPhrase, Toast.LENGTH_SHORT).show();
-                        }
-                    }
-                });
-            }
-
-            @Override
-            public void onCancelled() {
-                Log.d("vivi", "cancel");
-            }
-        });
-        MPush.I.sendHttpProxy(request);
+        showToast("start push");
     }
 
     public void stopPush(View btn) {
         MPush.I.stopPush();
-        Toast.makeText(this, "stop push", Toast.LENGTH_SHORT).show();
+        showToast("stop push");
     }
 
     public void pausePush(View btn) {
         MPush.I.pausePush();
-        Toast.makeText(this, "pause push", Toast.LENGTH_SHORT).show();
+        showToast("pause push");
     }
 
     public void resumePush(View btn) {
         MPush.I.resumePush();
-        Toast.makeText(this, "resume push", Toast.LENGTH_SHORT).show();
+        showToast("resume push");
     }
 
     public void unbindUser(View btn) {
         MPush.I.unbindAccount();
-        Toast.makeText(this, "unbind user", Toast.LENGTH_SHORT).show();
+        showToast("unbind user");
+    }
+
+    private void showToast(String content) {
+        Toast.makeText(this, content, Toast.LENGTH_SHORT).show();
     }
 }

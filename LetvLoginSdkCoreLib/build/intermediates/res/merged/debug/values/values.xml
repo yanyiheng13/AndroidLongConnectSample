@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="arrEmailNames">
+        <item>163.com</item>
+        <item>sina.com</item>
+        <item>qq.com</item>
+        <item>sohu.com</item>
+        <item>126.com</item>
+        <item>gmail.com</item>
+        <item>hotmail.com</item>
+        <item>yahoo.com</item>
+        <item>outlook.com</item>
+        <item>foxmail.com</item>
+        <item>letv.com</item>
+    </string-array>
+    <string-array name="monthNameArray">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="superid_country_group_a">
+		<item>阿尔巴尼亚,AL,355,108,276</item>
+		<item>阿尔及利亚,DZ,213,50,603</item>
+		<item>阿富汗,AF,93,45,412</item>
+		<item>阿根廷,AR,54,27,722</item>
+		<item>阿拉伯联合酋长国,AE,971,180,424|430|431</item>
+		<item>阿鲁巴岛,AW,297,100,363</item>
+		<item>阿曼,OM,968,178,422</item>
+		<item>阿塞拜疆,AZ,994,189,400</item>
+		<item>埃及,EG,20,5,602</item>
+		<item>埃塞俄比亚,ET,251,82,636</item>
+		<item>爱尔兰,IE,353,106,272</item>
+		<item>爱沙尼亚,EE,372,115,248</item>
+		<item>安道尔,AD,376,119,213</item>
+		<item>安哥拉,AO,244,77,631</item>
+		<item>安圭拉岛,AI,1264,195,365</item>
+		<item>安提瓜和巴布达,AG,1268,196,344</item>
+		<item>奥地利,AT,43,16,232</item>
+		<item>澳大利亚,AU,61,33,505</item>
+		<item>澳门,MO,853,165,455</item>
+    </string-array>
+    <string-array name="superid_country_group_b">
+		<item>巴巴多斯,BB,1246,194,342</item>
+		<item>巴布亚新几内亚,PG,675,153,537</item>
+		<item>巴哈马群岛,BS,1242,193,364</item>
+		<item>巴拉圭,PY,595,146,744</item>
+		<item>巴林,BH,973,182,426</item>
+		<item>巴拿马,PA,507,138,714</item>
+		<item>巴西,BR,55,28,724</item>
+		<item>白俄罗斯,BY,375,118,257</item>
+		<item>百慕大群岛,BM,1441,200,350</item>
+		<item>保加利亚,BG,359,112,284</item>
+		<item>贝宁,BJ,229,62,616</item>
+		<item>比利时,BE,32,9,206</item>
+		<item>冰岛,IS,354,107,274</item>
+		<item>波多黎各,PR,1787,208,330</item>
+		<item>波兰,PL,48,22,260</item>
+		<item>波斯尼亚和黑塞哥维那,BA,387,127,218</item>
+		<item>玻利维亚,BO,591,142,736</item>
+		<item>伯利兹,BZ,501,132,702</item>
+		<item>博茨瓦纳,BW,267,97,652</item>
+		<item>不丹,BT,975,184,402</item>
+		<item>布基纳法索,BF,226,59,613</item>
+		<item>布隆迪,BI,257,88,642</item>
+    </string-array>
+    <string-array name="superid_country_group_c">
+		<item>朝鲜,KP,850,163,467</item>
+		<item>赤道几内亚,GQ,240,73,627</item>
+    </string-array>
+    <string-array name="superid_country_group_d">
+		<item>丹麦,DK,45,19,238</item>
+		<item>德国,DE,49,23,262</item>
+		<item>东帝汶,TL,670,151,514</item>
+		<item>多哥,TG,228,61,615</item>
+		<item>多米尼加共和国,DO,1890,209,370</item>
+		<item>多米尼克,DM,1767,206,366</item>
+    </string-array>
+    <string-array name="superid_country_group_e">
+		<item>俄罗斯,RU,7,4,250</item>
+		<item>厄瓜多尔,EC,593,144,740</item>
+    </string-array>
+    <string-array name="superid_country_group_f">
+		<item>法国,FR,33,10,208</item>
+		<item>法罗群岛,FO,298,101,288</item>
+		<item>法属波利尼西亚,PF,689,161,547</item>
+		<item>法属圭亚那,GF,594,145,742</item>
+		<item>菲律宾,PH,63,35,515</item>
+		<item>斐济,FJ,679,156,542</item>
+		<item>芬兰,FI,358,111,244</item>
+		<item>佛得角,CV,238,71,625</item>
+    </string-array>
+    <string-array name="superid_country_group_g">
+		<item>冈比亚,GM,220,53,607</item>
+		<item>刚果共和国,CG,242,75,629</item>
+		<item>刚果民主共和国,CD,243,76,630</item>
+		<item>哥伦比亚,CO,57,30,732</item>
+		<item>哥斯达黎加,CR,506,137,712</item>
+		<item>格林纳达,GD,1809,201,352</item>
+		<item>格陵兰岛,GL,299,102,290</item>
+		<item>格鲁吉亚,GE,995,190,282</item>
+		<item>古巴,CU,53,26,368</item>
+		<item>瓜德罗普岛,GP,590,141,340</item>
+		<item>关岛,GU,671,204,535</item>
+		<item>圭亚那,GY,592,143,738</item>
+    </string-array>
+    <string-array name="superid_country_group_h">
+		<item>哈萨克斯坦,KZ,7,3,401</item>
+		<item>海地,HT,509,140,372</item>
+		<item>韩国,KR,82,40,450</item>
+		<item>荷兰,NL,31,8,204</item>
+		<item>荷属安的列斯群岛,NT,599,150,362</item>
+		<item>黑山共和国,ME,382,124,297</item>
+		<item>洪都拉斯,HN,504,135,708</item>
+    </string-array>
+    <string-array name="superid_country_group_i">
+	    
+	</string-array>
+    <string-array name="superid_country_group_j">
+		
+		<item>吉布提,DJ,253,84,638</item>
+		<item>吉尔吉斯斯坦,KG,996,191,437</item>
+		<item>几内亚,GN,224,57,611</item>
+		<item>几内亚-比绍,GW,245,78,632</item>
+		<item>加拿大,CA,1,1,302</item>
+		<item>加纳,GH,233,66,620</item>
+		<item>加蓬,GA,241,74,628</item>
+		<item>柬埔寨,KH,855,166,456</item>
+		<item>捷克共和国,CZ,420,129,230</item>
+		<item>津巴布韦,ZW,263,93,648</item>
+    </string-array>
+    <string-array name="superid_country_group_k">
+		<item>喀麦隆,CM,237,70,624</item>
+		<item>卡塔尔,QA,974,183,427</item>
+		<item>开曼群岛,KY,1345,199,346</item>
+		<item>科摩罗,KM,269,99,654</item>
+		<item>科特迪瓦,CI,225,58,612</item>
+		<item>科威特,KW,965,175,419</item>
+		<item>克罗地亚,HR,385,125,219</item>
+		<item>肯尼亚,KE,254,85,639</item>
+		<item>库克群岛,CK,682,157,548</item>
+    </string-array>
+    <string-array name="superid_country_group_l">
+		<item>拉脱维亚,LV,371,114,247</item>
+		<item>莱索托,LS,266,96,651</item>
+		<item>老挝,LA,856,167,457</item>
+		<item>黎巴嫩,LB,961,171,415</item>
+		<item>立陶宛,LT,370,113,246</item>
+		<item>利比里亚,LR,231,64,618</item>
+		<item>利比亚,LY,218,52,606</item>
+		<item>列支敦士登,LI,423,131,295</item>
+		<item>留尼汪岛，法国,RE,262,92,647</item>
+		<item>卢森堡,LU,352,105,270|294</item>
+		<item>卢旺达,RW,250,81,635</item>
+		<item>罗马尼亚,RO,40,14,226</item>
+    </string-array>
+    <string-array name="superid_country_group_m">
+		<item>马达加斯加,MG,261,91,646</item>
+		<item>马尔代夫,MV,960,170,472</item>
+		<item>马耳他,MT,356,109,278</item>
+		<item>马拉维,MW,265,95,650</item>
+		<item>马来西亚,MY,60,32,502</item>
+		<item>马里,ML,223,56,610</item>
+		<item>马其顿,MK,389,128,294</item>
+		<item>马提尼克,MQ,596,147,340</item>
+		<item>毛里求斯,MU,230,63,617</item>
+		<item>毛里塔尼亚,MR,222,55,609</item>
+		<item>美国,US,1,2,310|311|312|313|314|315|316</item>
+		<item>蒙古,MN,976,185,428</item>
+		<item>蒙特塞拉特岛,NS,1664,203,354</item>
+		<item>孟加拉国,BD,880,168,470</item>
+		<item>秘鲁,PE,51,24,716</item>
+		<item>摩尔多瓦,MD,373,116,259</item>
+		<item>摩洛哥,MA,212,49,604</item>
+		<item>摩纳哥,MC,377,120,212</item>
+		<item>莫桑比克,MZ,258,89,643</item>
+		<item>墨西哥,MX,52,25,334</item>
+    </string-array>
+    <string-array name="superid_country_group_n">
+		<item>纳米比亚,NA,264,94,649</item>
+		<item>南非,ZA,27,6,655</item>
+		<item>南苏丹,SS,211,48,659</item>
+		<item>尼泊尔,NI,977,186,429</item>
+		<item>尼加拉瓜,NP,505,136,710</item>
+		<item>尼日尔,NE,227,60,614</item>
+		<item>尼日利亚,NG,234,67,621</item>
+		<item>挪威,NO,47,21,242</item>
+    </string-array>
+    <string-array name="superid_country_group_o">
+	    
+	</string-array>
+    <string-array name="superid_country_group_p">
+		<item>葡萄牙,PT,351,104,268</item>
+    </string-array>
+    <string-array name="superid_country_group_q">
+	</string-array>
+    <string-array name="superid_country_group_r">
+		<item>日本,JP,81,39,441|440</item>
+		<item>瑞典,SE,46,20,240</item>
+		<item>瑞士,CH,41,15,228</item>
+    </string-array>
+    <string-array name="superid_country_group_s">
+		<item>萨尔瓦多,SV,503,134,706</item>
+		<item>萨摩亚,WS,685,158,549</item>
+		<item>塞尔维亚,RS,381,123,220</item>
+		<item>塞拉利昂,SL,232,65,619</item>
+		<item>塞内加尔,SN,221,54,608</item>
+		<item>塞浦路斯,CY,357,110,280</item>
+		<item>塞舌尔,SC,248,79,633</item>
+		<item>沙特阿拉伯,SA,966,176,420</item>
+		<item>圣基茨和尼维斯,KN,1869,211,356</item>
+		<item>圣卢西亚,LC,1758,205,358</item>
+		<item>圣马力诺,LM,378,121,292</item>
+		<item>圣文森特和格林纳丁斯,VC,1784,207,360</item>
+		<item>斯里兰卡,LK,94,46,413</item>
+		<item>斯洛伐克,SK,421,130,231</item>
+		<item>斯洛文尼亚,SI,386,126,293</item>
+		<item>斯威士兰,SZ,268,98,653</item>
+		<item>苏丹,SD,249,80,634</item>
+		<item>苏里南,SR,597,148,746</item>
+		<item>索马里,SO,252,83,637</item>
+    </string-array>
+    <string-array name="superid_country_group_t">
+		<item>塔吉克斯坦,TJ,992,187,436</item>
+		<item>台湾,TW,886,169,466</item>
+		<item>泰国,TH,66,38,520</item>
+		<item>坦桑尼亚,TZ,255,86,640</item>
+		<item>汤加,TO,676,154,539</item>
+		<item>特克斯和凯科斯群岛,TC,1649,202,376</item>
+		<item>特立尼达和多巴哥,TT,1809,210,374</item>
+		<item>突尼斯,TN,216,51,605</item>
+		<item>土耳其,TR,90,43,286</item>
+		<item>土库曼斯坦,TM,993,188,438</item>
+    </string-array>
+    <string-array name="superid_country_group_u">
+	    
+	</string-array>
+    <string-array name="superid_country_group_v">
+	    
+	</string-array>
+    <string-array name="superid_country_group_w">
+		<item>瓦努阿图,VU,678,155,541</item>
+		<item>危地马拉,GT,502,133,704</item>
+		<item>维尔京群岛英国,VG,1340,198,348</item>
+		<item>委内瑞拉,VE,58,31,734</item>
+		<item>文莱,VN,673,152,528</item>
+		<item>乌干达,UG,256,87,641</item>
+		<item>乌克兰,UA,380,122,255</item>
+		<item>乌拉圭,UY,598,149,748</item>
+		<item>乌兹别克斯坦,UZ,998,192,434</item>
+    </string-array>
+    <string-array name="superid_country_group_x">
+		<item>西班牙,ES,34,11,214</item>
+		<item>希腊,GR,30,7,202</item>
+		<item>香港,HK,852,164,454</item>
+		<item>新加坡,SG,65,37,525</item>
+		<item>新喀里多尼亚,NC,687,160,546</item>
+		<item>新西兰,NZ,64,36,530</item>
+		<item>匈牙利,HU,36,12,216</item>
+		<item>叙利亚,SY,963,173,417</item>
+    </string-array>
+    <string-array name="superid_country_group_y">
+		<item>牙买加,JM,1876,212,338</item>
+		<item>亚美尼亚,AM,374,117,283</item>
+		<item>也门,YE,967,177,421</item>
+		<item>伊拉克,IQ,964,174,418</item>
+		<item>伊朗,IR,98,47,432</item>
+		<item>以色列,IL,972,181,425</item>
+		<item>意大利,IT,39,13,222</item>
+		<item>印度,IN,91,44,404|405|406</item>
+		<item>印度尼西亚,ID,62,34,510</item>
+		<item>英国,GB,44,18,234|235</item>
+		<item>约旦,JO,962,172,416</item>
+		<item>越南,VN,84,41,452</item>
+    </string-array>
+    <string-array name="superid_country_group_z">
+		<item>赞比亚,ZM,260,90,645</item>
+		<item>泽西,ZE,44,17,234</item>
+		<item>乍得,TD,235,68,622</item>
+		<item>直布罗陀,GI,350,103,266</item>
+		<item>智利,CL,56,29,730</item>
+		<item>中非共和国,CF,236,69,623</item>
+		<item>中国,CN,86,42,460|461</item>
+    </string-array>
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_button_background_color">#415dae</color>
+    <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
+    <color name="com_facebook_button_background_color_focused">#FFFFFe</color>
+    <color name="com_facebook_button_background_color_focused_disabled">#84878c</color>
+    <color name="com_facebook_button_background_color_pressed">#2f477a</color>
+    <color name="com_facebook_button_background_color_selected">#7c8fc8</color>
+    <color name="com_facebook_button_border_color_focused">#dedee6</color>
+    <color name="com_facebook_button_login_silver_background_color">#f4f6f8</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#e9eaf0</color>
+    <color name="com_facebook_button_send_background_color">@color/com_facebook_messenger_blue</color>
+    <color name="com_facebook_button_send_background_color_pressed">#006fff</color>
+    <color name="com_facebook_device_auth_text">#797E87</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_messenger_blue">#0084ff</color>
+    <color name="com_facebook_share_button_text_color">#FFFFFF</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="common_plus_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_dark_focused">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_light_default">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_light_focused">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="letv_base_bg">#fffafafa</color>
+    <color name="letv_color_0073b4">#0073b4</color>
+    <color name="letv_color_00a0e9">#00a0e9</color>
+    <color name="letv_color_00edff">#00edff</color>
+    <color name="letv_color_0f000000">#0f000000</color>
+    <color name="letv_color_33000000">#33000000</color>
+    <color name="letv_color_333333">#333333</color>
+    <color name="letv_color_444444">#444444</color>
+    <color name="letv_color_5895ed">#5895ED</color>
+    <color name="letv_color_666666">#666666</color>
+    <color name="letv_color_909090">#909090</color>
+    <color name="letv_color_99000000">#99000000</color>
+    <color name="letv_color_999999">#999999</color>
+    <color name="letv_color_F1F1F1">#F1F1F1</color>
+    <color name="letv_color_a0a0a0">#a0a0a0</color>
+    <color name="letv_color_b7b7b7">#b7b7b7</color>
+    <color name="letv_color_cccccc">#cccccc</color>
+    <color name="letv_color_cdcdcd">#cdcdcd</color>
+    <color name="letv_color_d6d6d6">#d6d6d6</color>
+    <color name="letv_color_e0e0e0">#e0e0e0</color>
+    <color name="letv_color_ff5895ed">#ff5895ed</color>
+    <color name="letv_color_ff5d5d5d">#ff5d5d5d</color>
+    <color name="letv_color_ff5dccff">#ff5dccff</color>
+    <color name="letv_color_ffa1a1a1">#ffa1a1a1</color>
+    <color name="letv_color_ffdfdfdf">#ffdfdfdf</color>
+    <color name="letv_color_ffe9e9e9">#ffe9e9e9</color>
+    <color name="letv_color_ffec8e1f">#ffec8e1f</color>
+    <color name="letv_color_fff6f6f6">#fff6f6f6</color>
+    <color name="letv_color_fffafafa">#fffafafa</color>
+    <color name="letv_color_ffffff">#ffffff</color>
+    <color name="letv_color_ffffffff">#ffffffff</color>
+    <color name="login_color_000000">#000000</color>
+    <color name="login_color_0f93de">#0f93de</color>
+    <color name="login_color_424242">#424242</color>
+    <color name="login_color_6b6b6b">#6b6b6b</color>
+    <color name="login_color_80dddddd">#80dddddd</color>
+    <color name="login_color_8dc6ed">#8dc6ed</color>
+    <color name="login_color_F3F3F3">#F3F3F3</color>
+    <color name="login_color_F8F8F8">#F8F8F8</color>
+    <color name="login_color_bfbfbf">#bfbfbf</color>
+    <color name="login_color_e7e7e7">#e7e7e7</color>
+    <color name="login_color_ff242424">#ff242424</color>
+    <color name="login_color_ffa1a1a1">#ffDBDBDB</color>
+    <color name="login_color_ffdfdfdf">#ffdfdfdf</color>
+    <color name="login_color_fff6f6f6">#fff6f6f6</color>
+    <color name="program_item_trance_white2">#cccccc</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="s_color_background_bar">#22AEFF</color>
+    <color name="s_color_background_cell">#FFFFFF</color>
+    <color name="s_color_background_green">#00C300</color>
+    <color name="s_color_background_main">#F1F2F3</color>
+    <color name="s_color_background_view">#F2F2F2</color>
+    <color name="s_color_background_view_input">#202020</color>
+    <color name="s_color_background_view_touch">#DCDCDC</color>
+    <color name="s_color_barbtn_press">#0F759C</color>
+    <color name="s_color_border">#CCCCCC</color>
+    <color name="s_color_border_hightlight">#484848</color>
+    <color name="s_color_camera_shade">#b3000000</color>
+    <color name="s_color_custombg">#22AEFF</color>
+    <color name="s_color_customfont">#FFFFFF</color>
+    <color name="s_color_faceloginloadbg">#80000000</color>
+    <color name="s_color_fakeidbackground">#06273C</color>
+    <color name="s_color_font_contant">#626262</color>
+    <color name="s_color_font_darkbule">#22AEFF</color>
+    <color name="s_color_font_green">#00C300</color>
+    <color name="s_color_font_hightlight">#FFFFFF</color>
+    <color name="s_color_font_hightlight_disable">#4d5E5E5E</color>
+    <color name="s_color_font_hint">#C2C2C2</color>
+    <color name="s_color_font_ligthbule">#33B5E5</color>
+    <color name="s_color_font_main">#232323</color>
+    <color name="s_color_font_tips">#979797</color>
+    <color name="s_color_font_vice">#323232</color>
+    <color name="s_color_font_white_disable">#7DFFFFFF</color>
+    <color name="s_color_nofacetips">#FEC00F</color>
+    <color name="s_color_three_error_cell">#4DFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <declare-styleable name="Emojicon"><attr format="dimension" name="emojiconSize"/><attr format="enum" name="emojiconAlignment">
+            <enum name="bottom" value="0"/>
+            <enum name="baseline" value="1"/>
+        </attr><attr format="integer" name="emojiconTextStart"/><attr format="integer" name="emojiconTextLength"/><attr format="boolean" name="emojiconUseSystemDefault"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize"><enum name="standard" value="0"/><enum name="wide" value="1"/><enum name="icon_only" value="2"/></attr><attr format="reference|enum" name="colorScheme"><enum name="dark" value="0"/><enum name="light" value="1"/><enum name="auto" value="2"/></attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+    <declare-styleable name="com_facebook_like_view"><attr format="color" name="com_facebook_foreground_color"/><attr format="string" name="com_facebook_object_id"/><attr name="com_facebook_object_type"><enum name="unknown" value="0"/><enum name="open_graph" value="1"/><enum name="page" value="2"/></attr><attr name="com_facebook_style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="com_facebook_auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="com_facebook_horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="com_facebook_confirm_logout"/><attr format="string" name="com_facebook_login_text"/><attr format="string" name="com_facebook_logout_text"/><attr name="com_facebook_tooltip_mode"><enum name="automatic" value="0"/><enum name="display_always" value="1"/><enum name="never_display" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="com_facebook_preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="com_facebook_is_cropped"/></declare-styleable>
+    <dimen name="_image_personal_head_circle_diameter">78px</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <dimen name="com_facebook_auth_dialog_corner_radius">2dp</dimen>
+    <dimen name="com_facebook_auth_dialog_corner_radius_oversized">4dp</dimen>
+    <dimen name="com_facebook_button_corner_radius">2dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
+    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
+    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_share_button_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_left">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_right">16dp</dimen>
+    <dimen name="com_facebook_share_button_padding_top">12dp</dimen>
+    <dimen name="com_facebook_share_button_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="letv_dimens_space_15">15dp</dimen>
+    <dimen name="line_height">1px</dimen>
+    <dimen name="s_size_font_bar">18sp</dimen>
+    <dimen name="s_size_font_text">15sp</dimen>
+    <dimen name="s_size_font_tips">12sp</dimen>
+    <dimen name="s_size_font_title">17sp</dimen>
+    <item name="imageview_atts" type="id"/>
+    <item name="pagecard_view_default" type="id"/>
+    <item name="scale_type" type="id"/>
+    <item name="view_tag" type="id"/>
+    <integer name="google_play_services_version">9452000</integer>
+    <string name="account_freeze_prompt_dialog_Yesbutton">解冻</string>
+    <string name="account_freeze_prompt_dialog_content">请点击解冻，重置密码后登录</string>
+    <string name="account_freeze_prompt_dialog_title">您的账号已经被冻结</string>
+    <string name="account_label">乐视账号</string>
+    <string name="account_token_failure_dialog_Yesbutton">重新登录</string>
+    <string name="account_token_failure_dialog_content">登录或重新输入账号密码</string>
+    <string name="account_token_failure_dialog_title">当前账号已过期，请选择其他账号</string>
+    <string name="account_type" translatable="false">com.letv.LoginSDKAccount</string>
+    <string name="action_settings">Settings</string>
+    <string name="bring_paramers_error">携带的参数出错</string>
+    <string name="button_loading_text">加载中…</string>
+    <string name="cancle">取消</string>
+    <string name="channel_filter_no_content">暂无内容#点我重新筛选</string>
+    <string name="choose_country_area_title">国家/地区</string>
+    <string name="click_next_step_agree">点击下一步表示同意乐视的</string>
+    <string name="click_send_agree">点击立即发送表示同意乐视的</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> on your smartphone or computer and enter this code</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="countdown_get_again_text_middle">于</string>
+    <string name="countdown_get_again_text_one">如未收到短信，请</string>
+    <string name="countdown_get_again_text_one_emial">如未收到邮件，请</string>
+    <string name="countdown_get_again_text_two">s后 </string>
+    <string name="customer_service_phone">400 030 0104</string>
+    <string name="customer_service_title">客服电话：</string>
+    <string name="email_send_success">邮件下发成功</string>
+    <string name="ensure">确定</string>
+    <string name="facebook_app_id">1812997025586886</string>
+    <string name="find_password_activity_title">重置密码</string>
+    <string name="find_password_default_phone_number">1069032901305788</string>
+    <string name="find_password_send_soom">立即发送</string>
+    <string name="find_password_tip">编辑短信6–16位密码发送至</string>
+    <string name="find_password_tip2">密码格式：6–16位数字、字母或符号。暂不支持海外通道</string>
+    <string name="get_auth_coude_again">重新获取</string>
+    <string name="hot_play_error_net_null">网络不给力，请检查网络设置</string>
+    <string name="input_error_hint">帐号或密码不正确，请重新输入</string>
+    <string name="input_password">请输入密码</string>
+    <string name="input_phone_num">请输入手机号码</string>
+    <string name="input_right_authcode">请输入正确的激活码</string>
+    <string name="input_right_nickname">昵称应由4–32个中文/字母/下划线组成</string>
+    <string name="input_right_password">密码应由6–16位数字/字母组成</string>
+    <string name="input_right_phone_num">请输入正确的手机号码</string>
+    <string name="input_right_verification">请输入正确的验证码</string>
+    <string name="login_activity_title">登录乐视帐号</string>
+    <string name="login_fail">登录失败</string>
+    <string name="login_not_install_weixin">您还没有安装微信，请先去下载微信</string>
+    <string name="login_number_hint_text">请输入手机号/邮箱</string>
+    <string name="login_number_hintuser_text">请输入正确的手机号/邮箱</string>
+    <string name="login_password_hint_text">请输入密码</string>
+    <string name="login_password_hintpass_text">请输入正确的密码</string>
+    <string name="login_qq">腾讯QQ登录</string>
+    <string name="login_rightvf_hint_text">验证码错误，请重输！</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_to_messagelogin">您的帐号存在风险，为了您的帐号安全，请进行安全验证</string>
+    <string name="login_to_messagelogin_cancle">取消</string>
+    <string name="login_to_messagelogin_ensure">确定</string>
+    <string name="login_use_other_metherd">使用其他方式登录</string>
+    <string name="login_vf_hint_text">请输入验证码</string>
+    <string name="login_weibo">新浪微博登录</string>
+    <string name="loginactivity_check_login_method">请选择登录方式</string>
+    <string name="loginactivity_new_user_guide_subtite">谁让我们活在一个看脸的世界</string>
+    <string name="loginactivity_new_user_guide_tite">刷脸登录，震撼上线</string>
+    <string name="loginactivity_third_part_login">合作方登录</string>
+    <string name="loginactivity_third_part_login_fb">Facebook</string>
+    <string name="loginactivity_third_part_login_google">Google+</string>
+    <string name="loginactivity_third_part_login_qq">QQ</string>
+    <string name="loginactivity_third_part_login_sina">微博</string>
+    <string name="loginactivity_third_part_login_superid">刷脸</string>
+    <string name="loginactivity_third_part_login_superid_loser">刷脸登录失败</string>
+    <string name="loginactivity_third_part_login_tw">Twitter</string>
+    <string name="loginactivity_third_part_login_wx">微信</string>
+    <string name="loginshare_activity_title">登录乐视网</string>
+    <string name="logout_prompt_dialog_content">是否确认退出</string>
+    <string name="logout_prompt_dialog_title">退出账号后将无法同步个人信息，</string>
+    <string name="logout_prompt_dialog_yesbutton">退出</string>
+    <string name="message_login_authcode_supertitle">请绑定您的手机</string>
+    <string name="message_login_authcode_title">短信验证码已发送至您的手机</string>
+    <string name="message_login_authcode_title_email">邮箱验证码已发送至您的邮箱</string>
+    <string name="message_register">短信注册</string>
+    <string name="message_send_success">短信下发成功</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="more_account">更多账号</string>
+    <string name="moreaboutusactivity_webtitle">乐视网</string>
+    <string name="net_no">网络连接失败，请检查您的网络</string>
+    <string name="next_step">下一步</string>
+    <string name="nicknamechange_prompt_dialog_content">是否保存该修改</string>
+    <string name="nicknamechange_prompt_dialog_title">当前昵称已经被修改</string>
+    <string name="nicknamechange_prompt_dialog_yesbutton">保存</string>
+    <string name="notevfcode_text">短信验证码登录</string>
+    <string name="now_register">立即注册</string>
+    <string name="password_hint_text2">6–16位字母/数字/符号</string>
+    <string name="personalinfo_area">地区</string>
+    <string name="personalinfo_birthday">生日</string>
+    <string name="personalinfo_birthday_over_current_date">生日超过当前日期</string>
+    <string name="personalinfo_day">日</string>
+    <string name="personalinfo_find_password">重置密碼</string>
+    <string name="personalinfo_gender">性别</string>
+    <string name="personalinfo_head_image">头像</string>
+    <string name="personalinfo_head_nickname">昵称</string>
+    <string name="personalinfo_head_nickname_cannot_empty">昵称不能为空</string>
+    <string name="personalinfo_head_nickname_modifyrule">昵称规则为 4–32字符，支持中文，字母，下划线</string>
+    <string name="personalinfo_logout">退出登录</string>
+    <string name="personalinfo_men">男</string>
+    <string name="personalinfo_modify_password">修改密码</string>
+    <string name="personalinfo_no_data">未填写</string>
+    <string name="personalinfo_title">个人信息</string>
+    <string name="personalinfo_update_head_image_failure">更新头像失败</string>
+    <string name="personalinfo_women">女</string>
+    <string name="personalinfo_year">年</string>
+    <string name="phone_login">登  录</string>
+    <string name="phone_number_hint_text">请输入手机号</string>
+    <string name="public_loading_datanull">未获取到内容#点击页面刷新</string>
+    <string name="public_loading_no_net">网络未连接#请检查网络后点击页面刷新</string>
+    <string name="public_loading_text">正在加载，请稍候…</string>
+    <string name="register">注  册</string>
+    <string name="register_check_mob">该手机号已注册，请直接登录</string>
+    <string name="register_password_subtitle">6–16位字母，数字或符号</string>
+    <string name="register_password_title">密码格式为</string>
+    <string name="register_success_to_login">注册成功</string>
+    <string name="register_tip">一个帐号玩转所有乐视服务</string>
+    <string name="register_title">注册乐视帐号</string>
+    <string name="save">保  存</string>
+    <string name="seletc_from_camera">拍照上传</string>
+    <string name="seletc_from_image">从相册选择</string>
+    <string name="send_message_code_success">激活码下发成功</string>
+    <string name="service_agreement">服务条款细则及隐私政策</string>
+    <string name="shortcut_nickname_dialog_content">您更好的参与互动，建议修改昵称</string>
+    <string name="shortcut_nickname_dialog_subtitle">您当前正使用系统默认昵称，为方便</string>
+    <string name="shortcut_nickname_dialog_title">修改昵称提示</string>
+    <string name="shortcut_nickname_dialog_yesbutton">修改</string>
+    <string name="skip">跳过</string>
+    <string name="superid_aciton_authrevise">查看或修改您的授权内容</string>
+    <string name="superid_aciton_close">关闭</string>
+    <string name="superid_aciton_closeview">关闭窗口</string>
+    <string name="superid_aciton_notreceivedemail">没有收到验证邮件？</string>
+    <string name="superid_aciton_rebundle">重新绑定</string>
+    <string name="superid_aciton_resend">重新发送</string>
+    <string name="superid_aciton_resubmit">重新提交</string>
+    <string name="superid_aciton_submit">提交</string>
+    <string name="superid_aciton_unfreeze">解除冻结</string>
+    <string name="superid_action_agreeitem">我同意一登服务协议</string>
+    <string name="superid_action_back">返回</string>
+    <string name="superid_action_cancel">取消</string>
+    <string name="superid_action_changephone">切换账号</string>
+    <string name="superid_action_clip">裁剪</string>
+    <string name="superid_action_codesend">已发送</string>
+    <string name="superid_action_edit">编辑</string>
+    <string name="superid_action_exit">退出刷脸</string>
+    <string name="superid_action_makesureauth">确定登录</string>
+    <string name="superid_action_rebundleface">重绑人脸</string>
+    <string name="superid_action_rescan">重刷一次</string>
+    <string name="superid_action_retry">重试</string>
+    <string name="superid_action_save">保存</string>
+    <string name="superid_action_sendcode">发送验证码</string>
+    <string name="superid_action_sendcodeing">发送中</string>
+    <string name="superid_action_set">设置</string>
+    <string name="superid_action_startscan">开始刷脸</string>
+    <string name="superid_action_sure">确定</string>
+    <string name="superid_action_takefromalbum">从手机相册选择</string>
+    <string name="superid_action_takepic">拍照</string>
+    <string name="superid_china">中国</string>
+    <string name="superid_need_hack_detect">请本人刷脸</string>
+    <string name="superid_tips_accounthasbeenfrozen">帐号已冻结</string>
+    <string name="superid_tips_actionnull">缺少参数action</string>
+    <string name="superid_tips_apptokenfail">获取app_token失败</string>
+    <string name="superid_tips_apptokennull">缺少参数app_token</string>
+    <string name="superid_tips_auditing">帐号正解除冻结，请稍候</string>
+    <string name="superid_tips_authtips">访问您的注册信息：头像、昵称。</string>
+    <string name="superid_tips_avatarnull">请先设置头像</string>
+    <string name="superid_tips_bright">明亮</string>
+    <string name="superid_tips_bundlemissingface">无法识别当前人脸</string>
+    <string name="superid_tips_bundlemissingfaceoperate">重新刷脸</string>
+    <string name="superid_tips_cameraerror">相机连接失败</string>
+    <string name="superid_tips_cameraerrortips">当前应用缺少必要权限，请您在应用权限列表里打开摄像头权限。</string>
+    <string name="superid_tips_codeerror">验证码有误</string>
+    <string name="superid_tips_codeoverlimit">验证码请求超过限制次数</string>
+    <string name="superid_tips_connecttimeout">连接超时，请检查网络连通性</string>
+    <string name="superid_tips_emtokenerror">请先绑定一登</string>
+    <string name="superid_tips_facecomparefail">人脸比对失败</string>
+    <string name="superid_tips_facerebundlefreeze">帐号冻结中，请解除冻结后重试</string>
+    <string name="superid_tips_fakeid">欢迎使用刷脸功能</string>
+    <string name="superid_tips_firststart">授权此应用请输入短信验证码</string>
+    <string name="superid_tips_focusing">对准</string>
+    <string name="superid_tips_getsuccess">获取成功</string>
+    <string name="superid_tips_guidedark">保持稳定，让脸部对准黄框</string>
+    <string name="superid_tips_guideerror">登录失败，请重新刷脸，双击屏幕补光</string>
+    <string name="superid_tips_guideerthree">您已多次登录失败，请重新绑定人脸</string>
+    <string name="superid_tips_guidelight">光线充⾜，让人脸清晰可见</string>
+    <string name="superid_tips_guidelock">您当前帐号已被冻结，请在光线充足的环境下进行刷脸，申请解除冻结</string>
+    <string name="superid_tips_guideregisterbundle">您已两次登录失败，请在光亮的环境下，重新绑定人脸</string>
+    <string name="superid_tips_guideregisterer">登录失败，请重新刷脸，双击屏幕补光</string>
+    <string name="superid_tips_guidestart">请您面对手机，保持正脸姿势，点击开始刷脸</string>
+    <string name="superid_tips_idexist">此一登账号已被绑定</string>
+    <string name="superid_tips_infonull">info为空</string>
+    <string name="superid_tips_init">初始化中</string>
+    <string name="superid_tips_inputcode">请输入验证码</string>
+    <string name="superid_tips_inputphone">请输入手机号码</string>
+    <string name="superid_tips_inputphonetips">此号码将用于绑定您的人脸</string>
+    <string name="superid_tips_loginfail">登录失败</string>
+    <string name="superid_tips_loginsuccess">登录成功</string>
+    <string name="superid_tips_missingface">无法识别当前人脸，请重试</string>
+    <string name="superid_tips_namenull">请先填写昵称</string>
+    <string name="superid_tips_neterror">网络连接失败，请检查网络连通性</string>
+    <string name="superid_tips_nickname">昵称</string>
+    <string name="superid_tips_noauth">您尚未授权该应用，请先绑定授权</string>
+    <string name="superid_tips_nocamapp">该设备没有拍照应用</string>
+    <string name="superid_tips_noface">请您面对屏幕，将脸对准黄框</string>
+    <string name="superid_tips_nologin">尚未使用一登账号登录</string>
+    <string name="superid_tips_picnotexist">图片不存在</string>
+    <string name="superid_tips_rebundleapplication">人脸已提交审核，请您留意短信通知</string>
+    <string name="superid_tips_rebundling">正在审核中，请您留意短信通知</string>
+    <string name="superid_tips_rescan">重刷一次</string>
+    <string name="superid_tips_secureemailfail">邮箱填写有误</string>
+    <string name="superid_tips_secureemailtexta">安全邮箱用于接收授权登录、重绑人脸的通知。如帐号发生异常，您可以在通知邮件中冻结帐号，保障帐号安全。</string>
+    <string name="superid_tips_secureemailtextb">已向您的安全邮箱发送验证邮件，请您在24小时内登录邮箱查看，并确认设置</string>
+    <string name="superid_tips_secureemailtextc">已成功绑定安全邮箱。如帐号发生异常，您可以在通知邮件中冻结帐号，保障帐号安全。</string>
+    <string name="superid_tips_secureemailtexttips">安全邮箱设置后不能修改</string>
+    <string name="superid_tips_secureemailwarn">请您设置安全邮箱，提高安全级别</string>
+    <string name="superid_tips_sockettimeout">请求超时，服务器连接失败</string>
+    <string name="superid_tips_sslnotsafe">当前网络不安全</string>
+    <string name="superid_tips_steady">稳定</string>
+    <string name="superid_tips_takepicerror">发生意外，无法写入相册</string>
+    <string name="superid_tips_tokennull">app_token、access_token不能为空</string>
+    <string name="superid_tips_uidnull">uid不能为空</string>
+    <string name="superid_tips_unfreezesubmit">提交成功</string>
+    <string name="superid_tips_verifyfail">验证失败</string>
+    <string name="superid_tips_verifysuccess">验证成功</string>
+    <string name="superid_title_auth">授权</string>
+    <string name="superid_title_authtipstitle">使用一登授权并登录</string>
+    <string name="superid_title_bundle">人脸绑定</string>
+    <string name="superid_title_country">国家和地区</string>
+    <string name="superid_title_editinfo">填写个人信息</string>
+    <string name="superid_title_faceinfo">刷脸</string>
+    <string name="superid_title_fakeid">刷脸</string>
+    <string name="superid_title_login">刷脸登录</string>
+    <string name="superid_title_secureemail">我的安全邮箱</string>
+    <string name="superid_title_srvitem">一登服务协议</string>
+    <string name="superid_title_unfreeze">解除冻结</string>
+    <string name="superid_title_verify">验证</string>
+    <string name="superid_title_welcome"/>
+    <string name="third_part_login_tip">第三方登录用户暂无初始密码</string>
+    <string name="toast_auth_code">请输入验证码</string>
+    <string name="try_again">刷新重试</string>
+    <string name="verificationcode_dialog_hint_text">请输入右侧图片验证码</string>
+    <string name="verificationcode_dialog_title">请填写图片验证码</string>
+    <string name="vfcode_hint_text">右侧图片验证码</string>
+    <string name="weibosdk_demo_toast_auth_canceled">取消授权</string>
+    <string name="weibosdk_demo_toast_auth_failed">授权失败</string>
+    <string name="weibosdk_demo_toast_auth_success">授权成功</string>
+    <string name="weibosdk_demo_token_has_existed">Token 仍在有效期内，无需再次登录。</string>
+    <string name="weibosdk_demo_token_to_string_format_1">Token：%1$s \n有效期：%2$s</string>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="MessengerButton">
+    <item name="android:clickable">true</item>
+  </style>
+    <style name="MessengerButton.Blue">
+    <item name="android:background">@drawable/messenger_button_blue_bg_selector</item>
+  </style>
+    <style name="MessengerButton.Blue.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.Blue.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButton.White">
+    <item name="android:background">@drawable/messenger_button_white_bg_selector</item>
+  </style>
+    <style name="MessengerButton.White.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.White.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButtonText">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:drawablePadding">4dp</item>
+    <item name="android:gravity">center</item>
+    <!--suppress NewApi -->
+    <item name="android:textAllCaps">true</item>
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+    <style name="MessengerButtonText.Blue">
+    <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_white</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_white</item>
+  </style>
+    <style name="MessengerButtonText.White">
+    <item name="android:textColor">#0084ff</item>
+  </style>
+    <style name="MessengerButtonText.White.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_blue</item>
+  </style>
+    <style name="MessengerButtonText.White.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_blue</item>
+  </style>
+    <style name="com_facebook_auth_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="com_facebook_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/com_facebook_button_background</item>
+        <item name="android:drawablePadding">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:textColor">@color/com_facebook_button_text_color</item>
+        <item name="android:textSize">14.0dp</item>
+    </style>
+    <style name="com_facebook_button_like" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_like_background</item>
+    </style>
+    <style name="com_facebook_button_send" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_send_background</item>
+        <item name="android:drawableLeft">@drawable/com_facebook_send_button_icon</item>
+        <item name="android:text">@string/com_facebook_send_button_text</item>
+        <item name="android:textColor">@color/com_facebook_send_button_text_color</item>
+    </style>
+    <style name="com_facebook_button_share" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+        <item name="android:text">@string/com_facebook_share_button_text</item>
+    </style>
+    <style name="com_facebook_loginview_default_style" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="com_facebook_loginview_default_style">
+        <item name="android:background">@drawable/com_facebook_button_login_silver_background</item>
+        <item name="android:drawableLeft">@null</item>
+        <item name="android:textColor">#4b5164</item>
+    </style>
+    <style name="letv_text_12sp_999999">
+        <item name="android:textColor">#999999</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="letv_text_12sp_ff666666">
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="letv_text_13_ff444444">
+        <item name="android:textColor">#ff444444</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="letv_text_13_ffa1a1a1">
+        <item name="android:textColor">@color/letv_color_ffa1a1a1</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="letv_text_13_ffec8e1f">
+        <item name="android:textColor">@color/letv_color_ffec8e1f</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="letv_text_14sp_ff00a0e9">
+        <item name="android:textColor">#00a0e9</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="letv_text_14sp_ff666666">
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="letv_text_15_444444">
+        <item name="android:textColor">@color/letv_color_444444</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="letv_text_15_blue_white_style">
+        <item name="android:textColor">@drawable/letvloginsdk_blue_white_text_selecter</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:background">@drawable/letvloginsdk_btn_blue_selecter</item>
+    </style>
+    <style name="letv_text_15_ff444444">
+        <item name="android:textColor">#ff444444</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="letv_text_15_ff5d5d5d">
+        <item name="android:textColor">@color/letv_color_ff5d5d5d</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="letv_text_15sp_ff444444">
+        <item name="android:textColor">#ff444444</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="letv_text_18sp_ff444444">
+        <item name="android:textColor">#ff444444</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="my_edittext_style" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/superid_my_edittext</item>
+    </style>
+    <style name="popwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
+        <!-- 指定显示的动画xml -->
+
+        <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
+        <!-- 指定消失的动画xml -->
+    </style>
+    <style name="popwindow_animationPreview">
+        <item name="android:windowEnterAnimation">@anim/popwindow_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/popwindow_fade_out</item>
+    </style>
+    <style name="prompt_dialog_with_corner" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@drawable/letvloginsdk_verfication_dialog_shape_corner</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="textview">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#424242</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="textview_bottom">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">1.5dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:background">#a0a0a0</item>
+    </style>
+    <style name="third_part_login_icon">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="tooltip_bubble_text">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">0.25</item>
+        <item name="android:shadowColor">#40000000</item>
+    </style>
+</resources>

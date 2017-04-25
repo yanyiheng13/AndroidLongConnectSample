@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/button_item_showaccount"
+        android:layout_width="330dp"
+        android:layout_height="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/letvloginsdk_btn_blue_selecter"
+        android:gravity="center"
+        android:text="Button"
+        android:textColor="@color/letv_color_ffffff"
+        android:textSize="18sp" />
+
+    <RelativeLayout
+        android:id="@+id/text_loading_layout"
+        android:layout_width="330dp"
+        android:layout_height="37dp"
+        android:layout_alignBottom="@+id/button_item_showaccount"
+        android:layout_centerHorizontal="true"
+        android:layout_alignTop="@+id/button_item_showaccount"
+        android:gravity="center"
+        android:visibility="gone" >
+
+        <ProgressBar
+            android:id="@+id/loading"
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:indeterminateDrawable="@drawable/letvloginsdk_anim_rotate_loading" />
+
+        <TextView
+            android:id="@+id/loadingText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/loading"
+            android:text="@string/button_loading_text"
+            android:textColor="@color/letv_color_ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

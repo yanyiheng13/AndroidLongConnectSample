@@ -26,14 +26,14 @@ import android.content.SharedPreferences;
 import android.os.Build;
 import android.support.annotation.Nullable;
 
-import com.mpush.api.Client;
-import com.mpush.api.ClientListener;
-import com.mpush.api.Constants;
-import com.mpush.api.http.HttpRequest;
-import com.mpush.api.http.HttpResponse;
-import com.mpush.api.push.PushContext;
-import com.mpush.client.ClientConfig;
-import com.mpush.util.DefaultLogger;
+import com.mpush.java.api.Client;
+import com.mpush.java.api.ClientListener;
+import com.mpush.java.api.Constants;
+import com.mpush.java.api.http.HttpRequest;
+import com.mpush.java.api.http.HttpResponse;
+import com.mpush.java.api.push.PushContext;
+import com.mpush.java.client.ClientConfig;
+import com.mpush.java.util.DefaultLogger;
 
 import java.util.concurrent.Future;
 

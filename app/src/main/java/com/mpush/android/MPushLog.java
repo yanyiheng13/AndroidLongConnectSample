@@ -22,7 +22,7 @@ package com.mpush.android;
 
 import android.util.Log;
 
-import com.mpush.api.Logger;
+import com.mpush.java.api.Logger;
 
 /**
  * Created by yxx on 2016/2/15.

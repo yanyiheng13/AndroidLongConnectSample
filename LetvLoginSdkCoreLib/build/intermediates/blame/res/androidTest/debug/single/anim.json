@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/pip_pushup_in.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/pip_pushup_in.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/popwindow_fade_out.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/popwindow_fade_out.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/in_from_right.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/in_from_right.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/in_from_left.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/popwindow_fade_in.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/popwindow_fade_in.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/pophidden_anim.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/pophidden_anim.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/out_to_right.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/out_to_right.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/popshow_anim.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/popshow_anim.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/pip_pushdown_out.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/pip_pushdown_out.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/fade_in.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/pip_end_alpha.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/pip_end_alpha.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/fade_out.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/out_to_left.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/out_to_left.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/androidTest/debug/anim/alpha_out.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/bundles/debug/res/anim/alpha_out.xml"
+    }
+]

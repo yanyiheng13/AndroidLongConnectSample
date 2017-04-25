@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="310dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/textView_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/textView_title"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:lineSpacingExtra="6dp"
+        android:text="@string/login_to_messagelogin"
+        android:textColor="@color/login_color_6b6b6b"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/button_top_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/textView_content"
+        android:layout_marginTop="19dp"
+        android:background="@color/letv_color_cccccc" />
+
+    <TextView
+        android:id="@+id/button_middle_line"
+        android:layout_width="1dp"
+        android:layout_height="47dp"
+        android:layout_below="@+id/textView_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/letv_color_cccccc" />
+
+    <TextView
+        android:id="@+id/messagelogin_dialog_cancle_tx"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/button_middle_line"
+        android:layout_toLeftOf="@+id/button_middle_line"
+        android:background="@drawable/letvloginsdk_dialog_left_button_selector"
+        android:gravity="center"
+        android:text="@string/login_to_messagelogin_cancle"
+        android:textColor="@color/login_color_0f93de"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/messagelogin_dialog_ensure_tx"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button_middle_line"
+        android:layout_toRightOf="@+id/button_middle_line"
+        android:background="@drawable/letvloginsdk_dialog_right_button_selector"
+        android:gravity="center"
+        android:text="@string/login_to_messagelogin_ensure"
+        android:textColor="@color/login_color_0f93de"
+        android:textSize="18sp" />
+ </RelativeLayout>

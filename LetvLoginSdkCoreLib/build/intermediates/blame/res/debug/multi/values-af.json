@@ -1,0 +1,731 @@
+[
+    {
+        "outputFile": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 158,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 158,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endLine": 4,
+                    "endColumn": 23,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endLine": 4,
+                        "endColumn": 23,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 124,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 124,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 93,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 93,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 66,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 66,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 70,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 70,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 61,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 61,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 75,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 75,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 73,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 73,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 91,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 91,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 73,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 73,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 73,
+                    "endOffset": 1188
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endColumn": 73,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1193,
+                    "endColumn": 82,
+                    "endOffset": 1271
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 82,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1276,
+                    "endColumn": 98,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1226,
+                        "endColumn": 98,
+                        "endOffset": 1320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1375,
+                    "endColumn": 63,
+                    "endOffset": 1434
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1325,
+                        "endColumn": 63,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1439,
+                    "endColumn": 63,
+                    "endOffset": 1498
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 63,
+                        "endOffset": 1448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1503,
+                    "endColumn": 131,
+                    "endOffset": 1630
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1453,
+                        "endColumn": 131,
+                        "endOffset": 1580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1635,
+                    "endColumn": 108,
+                    "endOffset": 1739
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 108,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1744,
+                    "endColumn": 187,
+                    "endOffset": 1927
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 187,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1932,
+                    "endColumn": 127,
+                    "endOffset": 2055
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 127,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2060,
+                    "endColumn": 124,
+                    "endOffset": 2180
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 124,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2185,
+                    "endColumn": 211,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 879,
+                        "endColumn": 211,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endColumn": 214,
+                    "endOffset": 2607
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 214,
+                        "endOffset": 1301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2612,
+                    "endColumn": 123,
+                    "endOffset": 2731
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1306,
+                        "endColumn": 123,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2736,
+                    "endColumn": 130,
+                    "endOffset": 2862
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 130,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2867,
+                    "endColumn": 250,
+                    "endOffset": 3113
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 250,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3118,
+                    "endColumn": 254,
+                    "endOffset": 3368
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1561,
+                        "endColumn": 254,
+                        "endOffset": 1811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3373,
+                    "endColumn": 122,
+                    "endOffset": 3491
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1816,
+                        "endColumn": 122,
+                        "endOffset": 1934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3496,
+                    "endColumn": 109,
+                    "endOffset": 3601
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1939,
+                        "endColumn": 109,
+                        "endOffset": 2044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3606,
+                    "endColumn": 187,
+                    "endOffset": 3789
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2049,
+                        "endColumn": 187,
+                        "endOffset": 2232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3794,
+                    "endColumn": 128,
+                    "endOffset": 3918
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2237,
+                        "endColumn": 128,
+                        "endOffset": 2361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3923,
+                    "endColumn": 197,
+                    "endOffset": 4116
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2366,
+                        "endColumn": 197,
+                        "endOffset": 2559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4121,
+                    "endColumn": 135,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2564,
+                        "endColumn": 135,
+                        "endOffset": 2695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 183,
+                    "endOffset": 4436
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2700,
+                        "endColumn": 183,
+                        "endOffset": 2879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4441,
+                    "endColumn": 95,
+                    "endOffset": 4532
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2884,
+                        "endColumn": 95,
+                        "endOffset": 2975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4537,
+                    "endColumn": 92,
+                    "endOffset": 4625
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2980,
+                        "endColumn": 92,
+                        "endOffset": 3068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4630,
+                    "endColumn": 107,
+                    "endOffset": 4733
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-af/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3073,
+                        "endColumn": 107,
+                        "endOffset": 3176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4738,
+                    "endColumn": 60,
+                    "endOffset": 4794
+                },
+                "from": {
+                    "file": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-af/values-af.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1585,
+                        "endColumn": 60,
+                        "endOffset": 1641
+                    }
+                }
+            }
+        ]
+    }
+]

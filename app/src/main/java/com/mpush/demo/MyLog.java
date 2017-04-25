@@ -4,8 +4,8 @@ import android.app.Activity;
 import android.widget.EditText;
 
 import com.mpush.android.MPushLog;
-import com.mpush.api.Constants;
-import com.mpush.api.Logger;
+import com.mpush.java.api.Constants;
+import com.mpush.java.api.Logger;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;

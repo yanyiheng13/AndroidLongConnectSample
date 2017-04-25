@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/out_to_right.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/out_to_right.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/in_from_right.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/in_from_right.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/alpha_out.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/alpha_out.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/popwindow_fade_in.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/popwindow_fade_in.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/pip_pushdown_out.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/pip_pushdown_out.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/out_to_left.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/out_to_left.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/in_from_left.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/popshow_anim.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/popshow_anim.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/popwindow_fade_out.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/popwindow_fade_out.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/pip_end_alpha.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/pip_end_alpha.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/pophidden_anim.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/pophidden_anim.xml"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/anim/pip_pushup_in.xml",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/anim/pip_pushup_in.xml"
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_google_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_google_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_weixin_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_weixin_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/messenger_bubble_large_blue.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/messenger_bubble_large_white.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_letv_setting_accounts_icon.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_letv_setting_accounts_icon.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_message_register_icon.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_message_register_icon.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_default_head.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_default_head.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_sina_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_sina_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_button_icon_white.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_account.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_account.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_pulldown.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_pulldown.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_button_loading.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_button_loading.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_phone_input.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_phone_input.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_jiazai_normal_new.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_jiazai_normal_new.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_twitter_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_twitter_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_btn_enable.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_btn_enable.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_letv_web_back.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_letv_web_back.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_btn_blue.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_btn_blue.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_icon_arrow_right_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_icon_arrow_right_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_verificationcode_imageview.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_verificationcode_imageview.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_icon_arrow_right_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_icon_arrow_right_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_top_bg.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_top_bg.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_super_id_login_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_super_id_login_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_logo_hk.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_logo_hk.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_facebook_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_facebook_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_phone.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_phone.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_google_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_google_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_password_input.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_password_input.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_dialog_icon.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_dialog_icon.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_verificationcode_imageview_input.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_verificationcode_imageview_input.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_button_icon_blue.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_qq_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_qq_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_china.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_china.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_favicon_white.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_button_send_icon_white.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_account_input.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_account_input.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_letv_web_refresh.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_letv_web_refresh.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_super_id_login_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_super_id_login_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_btn_blue_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_btn_blue_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_new_user_guide_close.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_new_user_guide_close.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_zhanghao.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_zhanghao.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_letv_web_refresh_focus.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_letv_web_refresh_focus.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_close_default_normal.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_close_default_normal.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_logo_en.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_logo_en.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_letv_web_pre.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_letv_web_pre.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/messenger_bubble_small_blue.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_icon_arrow_right.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_icon_arrow_right.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_toast_icon.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_toast_icon.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_sina_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_sina_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_new_user_guide_button.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_new_user_guide_button.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_delete.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_delete.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/messenger_bubble_small_white.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_duihao.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_duihao.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_logo_cn.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_logo_cn.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_back_default_normal.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_back_default_normal.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_data_null.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_data_null.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_close_default_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_close_default_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_close.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_close.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_back_default_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_back_default_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_err_toast_icon.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_err_toast_icon.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_chat_error_normal.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_chat_error_normal.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_password.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_password.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_close.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_eye_light.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_eye_light.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_twitter_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_twitter_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_eye_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_eye_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_net_null_normal.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_net_null_normal.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_qq_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_qq_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_weixin_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_weixin_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_ver_background.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_ver_background.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/messenger_button_send_round_shadow.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/drawable-hdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_facebook_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_facebook_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_third_part_login_close_default.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_third_part_login_close_default.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/letvloginsdk_third_part_login_close_press.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/src/main/res/drawable-hdpi/letvloginsdk_third_part_login_close_press.png"
+    },
+    {
+        "merged": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/yanyiheng/java/android/AndroidLongConnectSample/LetvLoginSdkCoreLib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    }
+]
